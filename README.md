@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 
-![Harry POtter](https://www.harrypotterfanzone.com/harry-potter-movie-posters/)
+![Harry POtter](https://media.harrypotterfanzone.com/harry-potter-movie-posters-header-1120x0-c-default.jpg)
 
 # One of my favorite movie series is the "Harry Potter"
 
